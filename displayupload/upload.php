@@ -80,7 +80,8 @@
 				</tr>
 				<?php
 			}
-	}
+	}else{
+			echo "Extension is not matching.";
 	}
 
 	?>
