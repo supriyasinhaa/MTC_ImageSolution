@@ -83,7 +83,7 @@
 	}else{
 			echo "Extension is not matching.";
 	}
-
+	}
 	?>
 		</tbody>
 	</table>
